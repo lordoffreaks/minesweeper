@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "./build",
+    "allowJs": true,
+    "target": "ES2017",
+    "sourceMap": false,
+    "esModuleInterop": true
+  },
+  "include": [
+    "./**/*.ts"
+  ]
+}
